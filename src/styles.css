@@ -1,1 +1,11 @@
-/* You can add global styles to this file, and also import other style files */
+html,
+body {
+    background-color: #212121;
+    color: white;
+}
+
+.titulo {
+    font-size: 18px;
+    font-weight: 600;
+    color: #0d47a1
+}
